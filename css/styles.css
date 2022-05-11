@@ -6,9 +6,10 @@
     margin: 20px;
 }
 
-img {
+img.logo {
     max-width: 120px;
 }
+
 
 .img-insta {
     margin-left: 50px;
